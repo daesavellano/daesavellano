@@ -1,7 +1,7 @@
 
 ## Hello! I'm Danielle (Dana) ♡
 
-I’m a passionate **data analyst and healthcare advocate** currently pursuing my **M.S. in Health Care Analytics and Information Technology** at Carnegie Mellon University's Heinz College. My mission is to bridge the gap between healthcare and technology through evidence-based, community-focused solutions.
+I’m a passionate **data analyst and healthcare advocate** with an **M.S. in Health Care Analytics and Information Technology** at Carnegie Mellon University's Heinz College. My mission is to bridge the gap between healthcare and technology through evidence-based, community-focused solutions.
 
 ---
 
@@ -23,16 +23,10 @@ Data & Visualization:
 Core Languages:
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
-[![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff)](#)
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
 Tools & Environment:
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 
 ---
 
